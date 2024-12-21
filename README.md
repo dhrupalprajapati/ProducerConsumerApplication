@@ -1,7 +1,7 @@
 # ProducerConsumerApplication
 This is the simple Java Application which simulates Producer Consumer problem.
 
-#To run this application follow below steps:
+# To run this application follow below steps:
 1. Clone this repository.
 2. Go to ProducerConsumerApplication/src path from command prompt/ terminal
 3. Execute javac ProducerConsumerTest.java
